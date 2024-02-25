@@ -1,0 +1,26 @@
+Generated from FFTCode.m
+Title: Gm
+
+Input FFT Measurements
+            Specification 	        Value
+    Fundamental Frequency 	 1074.21875000
+                 DC Power 	 -307.77506285
+             Signal Power 	 -40.00000000
+                     SFDR 	 271.31355376
+                      SNR 	 270.43023090
+                      THD 	   0.00000000
+                    THDdB 	 -270.43023090
+                    SINAD 	          Inf
+                     ENOB 	          Inf
+
+Output FFT Measurements
+            Specification 	        Value
+    Fundamental Frequency 	 1074.21875000
+                 DC Power 	 -418.23086963
+             Signal Power 	 -150.56351168
+                     SFDR 	  69.73403011
+                      SNR 	 161.67595095
+                      THD 	   0.03260607
+                    THDdB 	 -69.73403010
+                    SINAD 	  69.73403056
+                     ENOB 	  11.29009051

@@ -1,0 +1,26 @@
+Generated from FFTCode.m
+Title: Gm degenerated
+
+Input FFT Measurements
+            Specification 	        Value
+    Fundamental Frequency 	 1074.21875000
+                 DC Power 	 -307.78198071
+             Signal Power 	 -40.00000000
+                     SFDR 	 271.29150983
+                      SNR 	 270.41811590
+                      THD 	   0.00000000
+                    THDdB 	 -270.41811590
+                    SINAD 	          Inf
+                     ENOB 	          Inf
+
+Output FFT Measurements
+            Specification 	        Value
+    Fundamental Frequency 	 1074.21875000
+                 DC Power 	 -413.47003109
+             Signal Power 	 -144.52885165
+                     SFDR 	  79.91524894
+                      SNR 	 161.82564402
+                      THD 	   0.01009809
+                    THDdB 	 -79.91521523
+                    SINAD 	  79.91521530
+                     ENOB 	  12.98114870
